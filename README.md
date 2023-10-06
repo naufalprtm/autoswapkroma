@@ -1,2 +1,2 @@
 # autoswapkroma
-auto swap bot fo testnet kroma
+auto swap bot for testnet kroma
